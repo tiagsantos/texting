@@ -1,11 +1,11 @@
 # FundamentalsCertificateApp
 
 
-**I. Overview**
+## **I. Overview**
 
 The project was created using the empty-skeleton template, with the objective of allowing a customer to make purchases at a computer store and have a courier take those purchases to the customer's home. The customer has to have a bank account and a computer store account in order to do the shopping.
 
-**II. Workflow**
+## **II. Workflow**
 1.	The customer and the computer store must have a bank account;
 2.	The customer must have an account at the computer store.
 3.	When the customer has an account at the computer store, he can order a list of products that he wants to buy;
@@ -16,7 +16,7 @@ The project was created using the empty-skeleton template, with the objective of
 8.	After the customer accepts, a transaction is made from the customer's bank account to the computer store's bank account;
 9.	Finally, an invoice is created with the customer's purchase.
 
-**III. Parties**
+## **III. Parties**
 
 - Store – Computer store;
 - Client – Person who buys the products in the computer store;
@@ -24,7 +24,7 @@ The project was created using the empty-skeleton template, with the objective of
 - Bank – Bank where the customer has money to pay for purchases at the computer store;
 - Other – Other parties used to unhappy test.
 
-**IV. Choices**
+## **IV. Choices**
 
 | Template | Choice | Description |
 | -------------------------- | -------------------------------- | ---------------- |
@@ -49,22 +49,20 @@ The project was created using the empty-skeleton template, with the objective of
 | Transaction | N/A | N/A |
 
 
-**V. Diagram**
+## **V. Diagram**
 
  Doing...
 
-**VI. Tests**
+## **VI. Tests**
 
 - To test end-to-end success cases, use the UnitTests.MainEndToEndHappyTest module and see the result of the scripts;
-- To test each module separately, with unhappy tests and see the result of the scripts, the following modules were created:
--- dsada
--  
+- To test each module separately, with unhappy tests and see the result of the scripts, the following modules were created: 
  - UnitTests.ManagementBankTest; 
  - UnitTests.ManagementClientsTest; 
  - UnitTests.ManagementProductsTest; 
  - UnitTests.PaymentsTest. 
 
-**VII. Notes**
+## **VII. Notes**
 
  - This project was created with Daml version 2.6.0;
  - To simulate some unhappy tests, it was necessary to create the first contracts and follow the workflow successfully to be able to do them.
