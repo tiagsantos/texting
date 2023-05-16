@@ -57,6 +57,8 @@ The project was created using the empty-skeleton template, with the objective of
 
 - To test end-to-end success cases, use the UnitTests.MainEndToEndHappyTest module and see the result of the scripts;
 - To test each module separately, with unhappy tests and see the result of the scripts, the following modules were created:
+-- dsada
+-  
  - UnitTests.ManagementBankTest; 
  - UnitTests.ManagementClientsTest; 
  - UnitTests.ManagementProductsTest; 
