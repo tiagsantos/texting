@@ -51,7 +51,8 @@ The project was created using the empty-skeleton template, with the objective of
 
 ## **V. Diagram**
 
- Doing...
+ ![Picture2](https://github.com/tiagsantos/texting/assets/133690802/6a0fab15-269c-41a8-bb61-0958a0e93730)
+
 
 ## **VI. Tests**
 
