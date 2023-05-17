@@ -51,16 +51,16 @@ The project was created using the empty-skeleton template, with the objective of
 
 ## **V. Diagram**
 
-### Happy test Diagram
+### End-to-end diagram
 ![happy](https://github.com/tiagsantos/texting/assets/133690802/ea63aaa9-6d6e-4227-b200-c972e24c9a02)
 
-### Unhappy test I
-![unhappy_1](https://github.com/tiagsantos/texting/assets/133690802/e5cfa1e7-4aa0-4fee-ad39-a258dfce848a)
+### Bank rejects account diagram
+![unhappy_1](https://github.com/tiagsantos/texting/assets/133690802/e28e55f5-909b-4b96-a893-978e06bfaee9)
 
-### Unhappy test II
+### Store rejects client's account proposal diagram
 ![unhappy_2](https://github.com/tiagsantos/texting/assets/133690802/e3165779-e950-431a-8310-2297159702b8)
 
-### Unhappy test III
+### Store rejects an order by client diagram
 ![unhappy_3](https://github.com/tiagsantos/texting/assets/133690802/bc9eac6f-5653-492c-b923-8dfc0771cc43)
 
 ## **VI. Tests**
