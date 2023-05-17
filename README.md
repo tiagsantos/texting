@@ -52,7 +52,7 @@ The project was created using the empty-skeleton template, with the objective of
 ## **V. Diagram**
 
 ### End-to-end diagram
-![happy](https://github.com/tiagsantos/texting/assets/133690802/ea63aaa9-6d6e-4227-b200-c972e24c9a02)
+![happy](https://github.com/tiagsantos/texting/assets/133690802/9ab642d5-81f6-4544-bbc3-8eedf6aa6629)
 
 ### Bank rejects account diagram
 ![unhappy_1](https://github.com/tiagsantos/texting/assets/133690802/e28e55f5-909b-4b96-a893-978e06bfaee9)
